@@ -1,0 +1,6 @@
+rootProject.name = 'Socket-Sample'
+include 'lib-clink'
+include 'sample-server'
+include 'sample-client'
+include 'sample-foo'
+
